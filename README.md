@@ -1,2 +1,1 @@
-first start
-test 1
+# rsschool-cv
